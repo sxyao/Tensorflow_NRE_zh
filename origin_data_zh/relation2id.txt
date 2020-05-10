@@ -1,0 +1,17 @@
+NA 0
+per:children 1
+per:place_of_birth 2
+per:origin 3
+per:place_of_death 4
+per:place_of_residence 5
+per:schools_attended 6
+per:cause_of_death 7
+per:title 8
+per:employee_or_member_of 9
+per:religion 10
+per:spouse 11
+org:political_religious_affiliation 12
+org:top_members_employees 13
+org:subsidiaries 14
+org:founded_by 15
+org:place_of_headquarters 16
