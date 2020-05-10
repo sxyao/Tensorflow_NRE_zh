@@ -1,0 +1,11 @@
+__pycache__
+.idea
+*.iml
+.DS_Store
+data/*
+KBP_result/*
+origin_data/
+out/sample_allprob_iter_10900.npy
+trained_model/*
+origin_data_zh/obj_data/*
+
