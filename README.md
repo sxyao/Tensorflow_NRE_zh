@@ -1,6 +1,6 @@
-# Neural Relation Extraction(NRE)
+# Chinese Neural Relation Extraction(CNRE)
 
-In this project, we implement a combined word-level and sentence-level Bidirectional GRU network (BGRU+2ATT) for Chinese relation extraction from text. This project was inspired by project [TensorFlow-NRE](https://github.com/frankxu2004/TensorFlow-NRE).
+In this project, we implement a combined word-level and sentence-level Bidirectional GRU network (BGRU+2ATT) with distant supervision for Chinese relation extraction from text. This project was inspired by project [TensorFlow-NRE](https://github.com/frankxu2004/TensorFlow-NRE).
 
 
 # Data
@@ -18,7 +18,6 @@ The source codes are in the current main directory code/.
 - TensorFlow (=r0.11)
 - scikit-learn (>=0.18)
 - Matplotlib (>=2.0.0)
-- itchat (optional)
 
 # Train
 For training, you need to type the following command:  
